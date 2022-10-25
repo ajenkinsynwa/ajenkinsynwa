@@ -8,7 +8,7 @@ Web developer currently earning a certificate in Full Stack Development from UNC
 
 * 🌍  I'm based in Charlotte, North Carolina
 * ✉️  You can contact me at [alexjenkinsynwa@gmail.com](mailto:alexjenkinsynwa@gmail.com)
-* 🚀  I'm currently working on [Updating My Portfolio](http://https://alexjenkinsportfolio.herokuapp.com/)
+* 🚀  I'm currently working on [Updating My Portfolio](http://alexjenkinsportfolio.herokuapp.com/)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Anything
 * ⚡  Liverpool FC Supporter
@@ -45,13 +45,7 @@ Web developer currently earning a certificate in Full Stack Development from UNC
 
 <a href="http://www.github.com/ajenkinsynwa"><img src="https://github-readme-stats.vercel.app/api?username=ajenkinsynwa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ajenkinsynwa's GitHub stats" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ajenkinsynwa/React-Portfolio " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ajenkinsynwa&repo=React-Portfolio &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ajenkinsynwa/ weatherdashboard" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ajenkinsynwa&repo= weatherdashboard&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/ajenkinsynwa/ Social-Network-API" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ajenkinsynwa&repo= Social-Network-API&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
