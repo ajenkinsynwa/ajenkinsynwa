@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 User-Focused Web Developer with advanced skills in JavaScript, CSS, and other Web Development Languages
 -------------------------------------------------------------------------------------------------------
 
-Web developer currently earning a certificate in Full Stack Development from UNC Charlotte Full Stack Coding Bootcamp with a graduation date in November 2022. Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and development. Previous management experience has given me strengths in creativity, teamwork, and building projects from ideation to execution.
+Web developer graduate from UNC Charlotte Full Stack Coding Bootcamp in November 2022. Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and development. Previous management experience has given me strengths in creativity, teamwork, and building projects from ideation to execution.
 
 * 🌍  I'm based in Charlotte, North Carolina
 * ✉️  You can contact me at [alexjenkinsynwa@gmail.com](mailto:alexjenkinsynwa@gmail.com)
