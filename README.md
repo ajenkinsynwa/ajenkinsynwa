@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 User-Focused Web Developer with advanced skills in JavaScript, CSS, and other Web Development Languages
 -------------------------------------------------------------------------------------------------------
 
-Web developer graduate from UNC Charlotte Full Stack Coding Bootcamp in November 2022—innovative problem-solver passionate about developing apps focusing on mobile-first design and development. Currently working as a software developer at Bi-Tek LLC, a tax software innovation company in Charlotte, NC.  Previous management experience has given me strengths in creativity, teamwork, and building projects from ideation to execution. Currently, work at a tax software innovation company called Bi-Tech LLC in Charlotte, North Carolina. 
+Web developer graduate from UNC Charlotte Full Stack Coding Bootcamp in November 2022—innovative problem-solver passionate about developing apps focusing on mobile-first design and development. Currently working as a software developer at Vanguard, in Charlotte, NC.  Previous management experience has given me strengths in creativity, teamwork, and building projects from ideation to execution. 
 
 * 🌍  I'm based in Charlotte, North Carolina
 * ✉️  You can contact me at [alexjenkinsynwa@gmail.com](mailto:alexjenkinsynwa@gmail.com)
