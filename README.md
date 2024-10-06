@@ -8,7 +8,7 @@ Web developer graduate from UNC Charlotte Full Stack Coding Bootcamp in November
 
 * 🌍  I'm based in Charlotte, North Carolina
 * ✉️  You can contact me at [alexjenkinsynwa@gmail.com](mailto:alexjenkinsynwa@gmail.com)
-* 🚀  I'm currently working on [Updating My Portfolio](https://alexjenkinsportfolio.cloud/)
+* 🚀  I'm currently working on projects at work 
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Anything
 * ⚡  Liverpool FC Supporter
