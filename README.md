@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alex Jenkins
 ====================================================================================================================================
 
-Software Developer @ Vanguard 
+Software Engineer @ Vanguard 
 -------------------------------------------------------------------------------------------------------
 
 Web developer graduate from UNC Charlotte Full Stack Coding Bootcamp in November 2022—innovative problem-solver passionate about developing apps focusing on mobile-first design and development. Currently working as a software developer at Vanguard, in Charlotte, NC.  Previous management experience has given me strengths in creativity, teamwork, and building projects from ideation to execution. 
